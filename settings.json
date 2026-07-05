@@ -1,15 +1,15 @@
 {
-  "name": "TALONG",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "TALONG",
+    "username": "TALONG_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "primalwrath.aternos.me",
     "port": 27571,
-    "version": "1.21.11",
-    "try-creative": true
+    "version": "1.21.1",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Fs starlight 200 pesos",
-        "kriskriskrissssss",
-        "I love kris"
+        "oh gow",
+        "anubayun",
+        "give ko na sayo yan"
       ]
     },
     "chat-log": true,
