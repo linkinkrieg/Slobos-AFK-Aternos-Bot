@@ -8,7 +8,7 @@
   "server": {
     "ip": "primalwrath.aternos.me",
     "port": 27571,
-    "version": "26.1.2",
+    "version": "false",
     "try-creative": true
   },
   "position": {
